@@ -1,0 +1,13 @@
+{   
+    "artifact_name":"##artifact_name##",
+    "deployment_info":
+                    {
+                        "status":"##status##",
+                        "obj_count":"##obj_count##",
+                        "db_env":"##db_env##",
+                        "oic_env":"##oic_env##",
+                        "report_env":"##report_env##"
+                    },
+    "section":[],
+    "section_data":{}
+}
